@@ -18,7 +18,7 @@ async (conn, mek, m, {
         }
 
         const { exec } = require("child_process");
-        reply("Restarting...");
+        reply("> Panhwar-Md Bot Restarting... 😄");
         await sleep(1500);
         exec("pm2 restart all");
     } catch (e) {
