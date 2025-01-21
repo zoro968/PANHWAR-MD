@@ -20,3 +20,19 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰PANHWAR-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
 
 ---
+### 1. Fork This Repository
+
+**Start by forking this repository to your own GitHub account. Click the button below to fork:**
+
+  <a href="https://github.com/ANSAR-PANHWAR/PANHWAR-MD/fork"><img title="PANHWAR-MD" src="https://img.shields.io/badge/FORK-PANHWAR MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
+
+**You will need a session ID to run the PANHWAR-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://panhwar-pair-01-339448bcae01.herokuapp.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
