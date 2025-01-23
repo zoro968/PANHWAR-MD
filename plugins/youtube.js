@@ -2,7 +2,7 @@ const { cmd, commands } = require('../command');
  
 const { BufferJSON, Browsers, WA_DEFAULT_EPHEMERAL, makeWASocket, generateWAMessageFromContent, proto, getBinaryNodeChildren, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType, useMultiFileAuthState, fetchLatestBaileysVersion, downloadContentFromMessage} = require('@whiskeysockets/baileys');
 const yts = require('yt-search');
-const config = require('../config.cjs')
+const config = require('../config.js')
 let prefix = config.PREFIX;
 const axios = require("axios");
 
